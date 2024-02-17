@@ -15,7 +15,7 @@
 <!-- ## Profile Image -->
 <div align="left">
   <a href="https://github.com/T-TheV">
-    <img src="[https://github.com/T-TheV/T-TheV/.github/workflows/kek-angry.gif](https://github.com/T-TheV/T-TheV/blob/main/.github/workflows/kek-angry.gif?raw=true)" alt="Profile Image" width="220" height="190" align="center">
+    <img src="https://github.com/T-TheV/T-TheV/blob/main/.github/workflows/kek-angry.gif?raw=true" alt="Profile Image" width="220" height="190" align="center">
   </a>
 </div>
 
