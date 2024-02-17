@@ -37,6 +37,6 @@
   <a href="https://discordapp.com/users/othev">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" 
   </a>
-  
 </div>
+  <img src="https://github.com/T-TheV/T-TheV/blob/output/github-contribution-grid-snake.svg)" alt="React" width="60" height="80" align="center">
 
