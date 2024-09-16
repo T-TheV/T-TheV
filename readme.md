@@ -49,8 +49,8 @@
     srcset="https://github.com/T-TheV/T-TheV/blob/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/T-TheV/T-TheV/blob/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+    src="only-svg/github-contribution-grid-snake.svg"
   />
 </picture>
 
