@@ -50,7 +50,7 @@
   />
   <img
     alt="snake animation"
-    src="only-svg/github-contribution-grid-snake.svg"
+    src="only-svg/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 
