@@ -46,7 +46,7 @@
 
   <img
     alt="snake animation"
-    src="https://github.com/T-TheV/T-TheV/blob/b29ca9c574c1ac5ba59153f0ff2148e2da39c41e/only-svg/github-contribution-grid-snake-dark.svg"
+    src="https://github.com/T-TheV/T-TheV/blob/11c075cb5e15fa07f70e83a7beaf0f78b4a56795/docker/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 
