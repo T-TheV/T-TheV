@@ -44,13 +44,10 @@
     media="(prefers-color-scheme: dark)"
     srcset="https://github.com/T-TheV/T-TheV/blob/output/github-contribution-grid-snake.svg"
   />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/T-TheV/T-TheV/blob/output/github-contribution-grid-snake.svg"
-  />
+
   <img
     alt="snake animation"
-    src="only-svg/github-contribution-grid-snake.svg"
+    src="https://github.com/T-TheV/T-TheV/blob/b29ca9c574c1ac5ba59153f0ff2148e2da39c41e/only-svg/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 
