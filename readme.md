@@ -47,14 +47,14 @@ Sou um estudante apaixonado por desenvolvimento de software, sempre buscando tra
       <strong>Frameworks</strong><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" style="margin: 5px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="50" style="margin: 5px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" style="margin: 5px;" />
+      <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" style="margin: 5px;" />-->
     </td>
     <!-- Bancos de Dados -->
     <td align="center" style="padding: 10px;">
       <strong>Bancos de Dados</strong><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" style="margin: 5px;" />
+      <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" style="margin: 5px;" />-->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" style="margin: 5px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" style="margin: 5px;" />
+      <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" style="margin: 5px;" />-->
     </td>
     <!-- Design & Prototipação -->
     <td align="center" style="padding: 10px;">
