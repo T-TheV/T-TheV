@@ -15,12 +15,12 @@
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/T-TheV/T-TheV/blob/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/T-TheV/T-TheV/output/github-contribution-grid-snake-dark.svg"
   />
 
   <img
     alt="snake animation"
-    src="https://github.com/T-TheV/T-TheV/blob/11c075cb5e15fa07f70e83a7beaf0f78b4a56795/docker/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/T-TheV/T-TheV/output/github-contribution-grid-snake.svg"
   />
 </picture>
 </div>
